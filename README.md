@@ -1,4 +1,5 @@
 # study-guide
+
 ## Description
 
 My motivation is to learn a skill set that is in high demand as well as something I am passionate about. I would also like to earn a good salary every year to maintain the lifestyle of my choosing. I built the project because I want to begin learning code. It solved my fear of possibly not being able to code. I learned how to use a terminal, at least a very small portion of it. I am super excited to begin my new career in 6 months! I can't wait to really be able to start my life and nothing will stop me!
@@ -41,4 +42,3 @@ SOFTWARE.
 
 ## Badges
 ![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
-
